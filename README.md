@@ -1,3 +1,3 @@
 # Data_150-Alex_Coombs
 
-Data 150
+Blumenstock Article Response 8/25/20
