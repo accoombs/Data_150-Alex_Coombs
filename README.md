@@ -1,3 +1,18 @@
 # Data_150-Alex_Coombs
 
 Blumenstock Article Response 8/25/20
+
+Alex Coombs
+August 25, 2020
+Data 150
+
+It is impossible to ignore the world-changing benefits of data science, but it is not the be-all-end-all of international development. Aiding developing nations requires more than addressing statistics. Making connections and viewing countries as collectives of individual people is paramount in helping developing nations. As a result, a "humbler data-science" that ensures the view of people as more than statistics, and one that acknowledges its limitations, is imperative to correctly use this tool. 
+
+Data science has many distinct advantages over analog methods. It is possible to track natural disasters via satellite, quickening response times, and saving resources and lives, and evaluating digital footprints allows for the spread of a disease to be more easily tracked during a pandemic, for example. As a concept, data science presents many feasible world-changing possibilities.
+
+Even though data science presents an incredible opportunity to improve the world, it is only a tool, and like any tool, has its limitations. Statistics and algorithms are the foundation of data science so it can be gamed. GiveDirectly, a non-profit organization based in Africa and the US, gives direct cash transfers to impoverished people around the world. Initially, they used thatched roofs as an identifier of poverty. However, people caught on to this and made dummy structures with thatched roofs to increase their chances of getting aid even if they were not meant to receive it (Blumenstock). Like any factor or method used to categorize something qualitative, the correlation of thatched roofs and poverty changed. The algorithm was able to be gamed since it lacked the flexibility needed when addressing people, so GiveDirectly failed to make fully informed decisions. The idea of direct cash transfers is good, but GiveDirectly distanced themselves too much from the people they were helping, and the limitations of data science were not addressed. 
+
+Data science is being used to accelerate the development of many nations, but it can also have adverse effects. Digital loans have exploded in popularity in Africa this decade. Many people can take out loans even without having credit by allowing lenders to use their mobile phone data to evaluate risk. Borrowing money assists the development of a robust economy, but it can also lead to deepened debt. Hundreds of thousands of digital loans are made per day in sub-Saharan Africa, but a 2015 study in Rwanda showed that only 51% of people knew the interest rates of their loans (Blumenstock). Data science has allowed many more people to receive loans, but whether this is strictly beneficial is up in the air. Development takes time, and speeding towards modernity surely causes confusion and demands adaptation. The effects of development could end up hurting people before they help them. Data science should be used to help developing nations, but using its benefits too heavy-handedly should be avoided. 
+
+Data science is effective only on problems that it can address. The foundation of data science is using data, which requires the use of technology. Although many people have a digital footprint, not everyone does. This group can be left out of the benefits of data science since it cannot directly help them. Therefore, data science is inherently a bit flawed as a tool and must stay humble regarding its limitations. It is only one tool in the toolbox, and as a result must be used in conjunction with other methods, not as a replacement.
+
