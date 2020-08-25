@@ -1,2 +1,10 @@
+Alex Coombs
+August 27th 2020
+DATA 150
 
-[Hans Rosling Ted-Talk Response 8/27/20](Rosling.md)
+Statistics themselves are just numbers, and numbers alone can be boring, especially if you don’t have little interest or knowledge about what they mean. Hans Rosling was able to prove his point about the importance of the presentation of data by both explaining his beliefs on how the way data is shown matters and presenting his data well. He explains that the use of animations will make data more engaging, as will making data more accessible through search engines. I believe that this is true: a spreadsheet is far less interesting than an animated model, and the changes in internet usage and infrastructure since this video was published has certainly made data more accessible as Rosling said it would. 
+
+Rosling also explains how we misuse the data that we already have. For example, statistics such as income in Africa vary greatly by country, yet we generally see the continent of Africa as a whole as being equally developed. This idea culminates into the sentiment that “we need to help Africa” rather than “we need to help some parts of Africa more than others”. The more specific data helps contextualize problems in Africa and would lead to the more informed latter statement instead of the more common former. 
+
+UAE and China’s development also brought up an interesting idea about whether a country’s economy or health should be the priority. China, among other nations, first showed a decrease in their rate of child mortality before a significant increase in income, while Brazil did not and developed slower than other countries. This relationship suggests that health should take priority over the economy, even though a higher level of income is also, and sometimes even more greatly associated with, a higher standard of living. The UAE is also an interesting case since they essentially traded money for health, by decreasing in average income over time, and also decreasing their child mortality rates. Overall, the relationship between income and child mortality seems to suggest that health should be prioritized over economic development when trying to improve the standard of living.
+
