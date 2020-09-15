@@ -6,3 +6,4 @@
 
 [Q&A Responses](Q&A.md)
 
+[Data Science Method Insight #1] (Insight1.md)
