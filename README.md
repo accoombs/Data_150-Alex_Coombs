@@ -12,3 +12,4 @@
 
 [Kitchin vs. Anderson](epistemology.md)
 
+[Data Science Insight #2](Insight2.md)
