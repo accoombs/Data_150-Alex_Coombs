@@ -17,3 +17,5 @@
 [Owen Barder Questions](Barder.md)
 
 [Literature Review](Literature_Review.md)
+
+[Type of Central Research Question](TypeOfQ.md)
