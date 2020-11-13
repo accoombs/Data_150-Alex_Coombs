@@ -1,9 +1,12 @@
 Alex Coombs
-DATA 150
-10/30/20
-Word Count: 1208
-Assignment 3
 
+DATA 150
+
+10/30/20
+
+Word Count: 1208
+
+                                                                                  Assignment 3
 
 Introduction:
 
