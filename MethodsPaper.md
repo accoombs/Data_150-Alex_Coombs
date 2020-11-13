@@ -9,12 +9,14 @@ Methods:
 DNN and LSTM models implement deep learning algorithms to more generate more accurate predictions regarding the spread of infectious disease than previous statistical models that did not implement AI. This was shown to be true in a study where internet search query data, weather and climate data, and social media big data was used to accurately predict the spread of chicken pox, scarlet fever, and malaria in South Korea. The search query data was taken from the search engine “Naver,” and was comprised on searches that involved key terms or phrases such as “chicken pox” or “chicken pox symptoms”. The weather and climate data were daily averages and were taken from the Korean Meteorological Administration(2). 
 
 ![alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%20155755.png)
+
 Figure describes the variables used for the predictive models (DNN, LSTM, ARIMA, OLS)
 
 
 1.	DNN:
  
 ![alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%201456451.png)
+
 Figure is a visual representation of a neuron used in the DNN models.
 
 The DNN models use 3 or more node layers, the first layer being the input node, and the other layers for non-linear algorithms. The equation used for each of the neurons in the DNN models used is the following: σ :Sum = w · x + b, y :f(σ) = f(w · x + b). The variables used are b: Bias, x: input, y: output, w: weight, σ: calculation function, f(σ): activation function. The DNN model implements the “Dense Layer” option of Keras package in python 3.5.3 for analysis. All the ten parameters in the “Dense Layer” were used in their default setting except for the units, activation, and dropout(2). 
@@ -23,7 +25,8 @@ The DNN models use 3 or more node layers, the first layer being the input node, 
 
 This model is termed Long-Short Term Memory. In each layer the model establishes what information should be remembered and forgotten from the input. This is a recurrent neural network and each iteration it refines what to forget and renew from each input. The equations used for the LSTM model are the following:
 
-1[alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%20153210.png)
+![alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%20153210.png)
+
 The input for the function is represented by xt.  ft  determines what information to be saved is created by it and C˜t, Ct, the cell layer, is renewed by ft, it, and C˜t. The layer finally receives a value from -1 to 1 as represented by the output ht. The LSTM layer is used from the Keras package of Python 3.5.3. All the 23 parameters were set to their default value except for the units, activation function, return sequence, and dropout(2). 
 
 Results: 
