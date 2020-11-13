@@ -6,8 +6,10 @@ As a continent, Africa has the highest mortality rate and is the only continent 
 
 Methods:
 DNN and LSTM models implement deep learning algorithms to more generate more accurate predictions regarding the spread of infectious disease than previous statistical models that did not implement AI. This was shown to be true in a study where internet search query data, weather and climate data, and social media big data was used to accurately predict the spread of chicken pox, scarlet fever, and malaria in South Korea. The search query data was taken from the search engine “Naver,” and was comprised on searches that involved key terms or phrases such as “chicken pox” or “chicken pox symptoms”. The weather and climate data were daily averages and were taken from the Korean Meteorological Administration. 
-Figure describes the variables used for the predictive models (DNN, LSTM, ARIMA, OLS)
 
+![imageOfChart](Screenshot 2020-11-09 155755.png)
+
+Figure describes the variables used for the predictive models (DNN, LSTM, ARIMA, OLS)
 
 1.	DNN:
  
