@@ -5,17 +5,16 @@ Word Count: 1208
 Assignment 3
 As a continent, Africa has the highest mortality rate and is the only continent with more deaths attributed to infectious disease than chronic illness (1). Healthcare greatly contributes to overall wellbeing and achieving an objectively good life, so it must be a priority when increasing the overall wellbeing of Sub-Saharan Africa. Even though factors such as economic output and corruption limit sub-Saharan African development, developing an effective healthcare system is integral to the future of the region. Some of the limitations to achieving effective healthcare in sub-Saharan Africa reside in its lack of adequate census data and lack of access to health centers/health professionals. Even with the aggregate health data in the region indicating that it is the worst in the world, different countries vary in healthcare quality, and sub-populations within the Sub-Saharan countries do as well. For example, according to a Gallup world poll conducted in 2012, only 17% of respondents in Madagascar and Tanzania reported being in perfect health, while 50% of respondents in Ethiopia and Somaliland reported being in perfect health. This trend of inequality does not apply solely to general health, but also contact with health professionals, with less than 50% of respondents in Ghana reporting ever being in contact with a health official, and less than 10% in Sudan (1). Data science methods that implement user-generated data such as CDR and search query data have the potential to greatly mitigate the spread of infectious disease in sub-Saharan Africa, and one such method is predicting the spread of infectious disease by. This approach is evaluative since it aims to describe the potential benefits of using this data and is looking more at the potential use of specific methods rather than explaining a trend. This type of inquiry is uniquely appropriate for this topic since the methods used will be at the forefront of this question’s focus. Within this question, there exists the questions of: What is the nature of this user-generated data, and why is that useful for mitigating the spread of infectious disease? What data science methods are useful for mitigating the spread of infectious disease? What are the limitations of using methods that implement this data, and how can this be addressed? All these questions relate to specific steps in evaluating the usefulness of these data methods and will contribute to a nuanced understanding of their advantages and disadvantages. 
 
-![alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%201456451.png)
-
 Methods:
 DNN and LSTM models implement deep learning algorithms to more generate more accurate predictions regarding the spread of infectious disease than previous statistical models that did not implement AI. This was shown to be true in a study where internet search query data, weather and climate data, and social media big data was used to accurately predict the spread of chicken pox, scarlet fever, and malaria in South Korea. The search query data was taken from the search engine “Naver,” and was comprised on searches that involved key terms or phrases such as “chicken pox” or “chicken pox symptoms”. The weather and climate data were daily averages and were taken from the Korean Meteorological Administration(2). 
 
-
+![alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%20155755.png)
 Figure describes the variables used for the predictive models (DNN, LSTM, ARIMA, OLS)
 
 
 1.	DNN:
  
+![alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%201456451.png)
 Figure is a visual representation of a neuron used in the DNN models.
 
 The DNN models use 3 or more node layers, the first layer being the input node, and the other layers for non-linear algorithms. The equation used for each of the neurons in the DNN models used is the following: σ :Sum = w · x + b, y :f(σ) = f(w · x + b). The variables used are b: Bias, x: input, y: output, w: weight, σ: calculation function, f(σ): activation function. The DNN model implements the “Dense Layer” option of Keras package in python 3.5.3 for analysis. All the ten parameters in the “Dense Layer” were used in their default setting except for the units, activation, and dropout(2). 
@@ -24,14 +23,7 @@ The DNN models use 3 or more node layers, the first layer being the input node, 
 
 This model is termed Long-Short Term Memory. In each layer the model establishes what information should be remembered and forgotten from the input. This is a recurrent neural network and each iteration it refines what to forget and renew from each input. The equations used for the LSTM model are the following:
 
-
-
-
-
-
-
-
-
+1[alt text](https://github.com/accoombs/Data_150-Alex_Coombs/blob/master/Screenshot%202020-11-09%20153210.png)
 The input for the function is represented by xt.  ft  determines what information to be saved is created by it and C˜t, Ct, the cell layer, is renewed by ft, it, and C˜t. The layer finally receives a value from -1 to 1 as represented by the output ht. The LSTM layer is used from the Keras package of Python 3.5.3. All the 23 parameters were set to their default value except for the units, activation function, return sequence, and dropout(2). 
 
 Results: 
