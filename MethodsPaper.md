@@ -6,7 +6,7 @@ DATA 150
 
 Word Count: 1208
 
-                                                                                  Assignment 3
+Use of DNN and LSTM Models to Predict the Spread of Infectious Disease
 
 Introduction:
 
