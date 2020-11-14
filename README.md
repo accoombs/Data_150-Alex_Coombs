@@ -22,4 +22,6 @@
 
 [In Class Data Science Insight](Insight3.md)
 
+[Methods Paper](Assignment3.md)
+
 [Final Presentation Abstract](Abstract.md)
